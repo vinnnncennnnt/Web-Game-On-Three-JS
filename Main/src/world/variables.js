@@ -1,0 +1,10 @@
+export const ON_RIGHT = 4;
+export const ON_RIGHT_DECORATION = 9;
+export const ON_MIDDLE = 0;
+export const ON_LEFT = -4;
+export const ON_LEFT_DECORATION = -9;
+export const ON_DOWN = 0;
+export const ON_UP = 4;
+export const ON_UP_SECOUND_JUMP = 4;
+export const ON_UNDERGROUND = -1.8;
+export const ON_RUNUP = 2;
